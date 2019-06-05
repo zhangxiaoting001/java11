@@ -9,6 +9,7 @@ public class Main {
         System.out.println("张三的代码!");
         System.out.println("张三也提交了!");
         System.out.println("张三也提交了!");
+        System.out.println("张三后提交代码!");
 		
     }
 }
